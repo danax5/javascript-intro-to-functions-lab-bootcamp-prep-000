@@ -21,6 +21,8 @@ function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
 
+sayHitoGrandma('I can/t hear you!"")
+
 function sayHiToGrandma(string) {
   console.log('hello')
   return "YES INDEED!"
