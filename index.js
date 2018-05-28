@@ -26,4 +26,4 @@ function sayHiToGrandma(string) {
   return "YES INDEED!"
 }
 
-var 'hello' = 'I can't hear you';
+var hello = 'I can/t hear you';
