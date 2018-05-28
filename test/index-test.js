@@ -12,10 +12,10 @@ describe('whisper(string)', function() {
 })
 
 describe('logShout(string)', function() {
-  it('calls console.log('') its one argument in all caps'), function() {
+  it('calls console.log() its one argument in all caps', function() {
     const spy = expect.spyOn(console, 'log').andCallThrough()
 
-    logShout()
+    logShout('hello')
 
     expect(spy).toHaveBeenCalledWith('HELLO')
 
