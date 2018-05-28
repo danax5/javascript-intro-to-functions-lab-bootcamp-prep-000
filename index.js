@@ -21,5 +21,5 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  return string."YES INDEED!"
+  return "YES INDEED!"
 }
