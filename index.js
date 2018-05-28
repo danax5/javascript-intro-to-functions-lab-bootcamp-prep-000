@@ -17,11 +17,11 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  console.log('hello')
+  console.log('HELLO')
   return "I can't hear you!"
 }
 
 function sayHiToGrandma(string) {
-  console.log('HELLO')
+  console.log('hello')
   return "YES INDEED!"
 }
