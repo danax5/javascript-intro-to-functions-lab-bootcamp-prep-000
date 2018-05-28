@@ -20,4 +20,6 @@ function sayHiToGrandma(string) {
   return "I can't hear you!"
 }
 
-sayHiToGrandma('I')
+function sayHiToGrandma(string) {
+  return "YES INDEED!"
+}
